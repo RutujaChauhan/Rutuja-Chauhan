@@ -18,7 +18,8 @@ I bring extensive expertise as a Data Engineer and Analyst, specializing in conv
 📈 Analysis: Statistics, Machine Learning
 
 🤖 Generative AI: Vertex AI (Google gemini-vision pro, PALM2 etc., Autogen and agents)
-*** 
+
+
 # Professional Experience:
 <p style="text-align: justify">
 Data Engineering:
