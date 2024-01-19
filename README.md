@@ -9,15 +9,15 @@ I bring extensive expertise as a Data Engineer and Analyst, specializing in conv
 <h3 style="text-align:center;"> 📝 Skills
 </p>
 
-    💻 Programming: Python, SQL
+💻 Programming: Python, SQL
 
-    ☁️ Cloud Platforms: Azure & Google Cloud Services.
+☁️ Cloud Platforms: Azure & Google Cloud Services.
 
-    🔍 Visualization: Power BI, Looker Studio, Appache SuperSet
+🔍 Visualization: Power BI, Looker Studio, Appache SuperSet
 
-    📈 Analysis: Statistics, Machine Learning
+📈 Analysis: Statistics, Machine Learning
 
-    🤖 Generative AI: Vertex AI (Google gemini-vision pro, PALM2 etc., Autogen and agents)
+🤖 Generative AI: Vertex AI (Google gemini-vision pro, PALM2 etc., Autogen and agents)
 *** 
 # Professional Experience:
 <p style="text-align: justify">
