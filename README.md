@@ -5,9 +5,7 @@ I bring extensive expertise as a Data Engineer and Analyst, specializing in conv
 
 ***
 
-<p align="center">
-<h3 style="text-align:center;"> 📝 Skills
-</p>
+## 📝 Skills
 
 💻 Programming: Python, SQL
 
