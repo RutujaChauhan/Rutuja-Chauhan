@@ -21,7 +21,7 @@ I bring extensive expertise as a Data Engineer and Analyst, specializing in conv
 
 
 <p align="center">
-<h3 style="text-align:center;"> 👔💼Professional Experience:
+<h3 style="text-align:center;">💼Professional Experience:
 </p>
 
 <p style="text-align: justify">
