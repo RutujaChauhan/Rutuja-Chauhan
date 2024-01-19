@@ -58,6 +58,7 @@ Applied Python, Tesseract, EasyOcr, Vertex AI Models, and Huggingface Models in 
 Worked on autogen agents with OpenAI and Google Gemini, showcasing proficiency in leveraging generative AI for innovative solutions.
 </p>
 
+***
 
 <p align="center">
 <h3 style="text-align:center;"> 📜 Certificates
