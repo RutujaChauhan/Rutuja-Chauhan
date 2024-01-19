@@ -20,7 +20,10 @@ I bring extensive expertise as a Data Engineer and Analyst, specializing in conv
 🤖 Generative AI: Vertex AI (Google gemini-vision pro, PALM2 etc., Autogen and agents)
 
 
-# Professional Experience:
+<p align="center">
+<h3 style="text-align:center;"> 👔💼Professional Experience:
+</p>
+
 <p style="text-align: justify">
 Data Engineering:
 
