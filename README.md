@@ -66,7 +66,7 @@ Worked on autogen agents with OpenAI and Google Gemini, showcasing proficiency i
 </p>
 
 <p algin="center">
-    <a href="https://www.credential.net/6dbf66fe-f409-4b0c-ae08-4e9fa94df219#gs.2s9kwd" target=" blank">
+    <a href="https://www.credential.net/6dbf66fe-f409-4b0c-ae08-4e9fa94df219#gs.2s9kwd" target="_blank">
         <img src="images/GCP-ACE.png" alt="" height="50" hspace="20">
     </a>
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KMSUAWAG3WDA" target="_blank">
