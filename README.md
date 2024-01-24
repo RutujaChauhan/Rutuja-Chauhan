@@ -1,6 +1,6 @@
 # 👋 Hi I'm Rutuja Chauhan!
 <p style="text-align: justify">
-I bring extensive expertise as a Data Engineer and Analyst, specializing in converting data into actionable insights. I possess proficiency in Python, Databricks, Vertex AI, as well as Azure and Google Cloud Services. My skills encompass data cleaning, modeling, and the creation of insightful dashboards tailored for data-driven decision-making. I have a robust foundation in statistics and machine learning, complemented by strong analytical and problem-solving capabilities.
+I bring extensive expertise as a Data Engineer and Analyst, specializing in converting data into actionable insights. I possess proficiency in Python, SQL, Statistical Analysis, Databricks, Vertex AI, as well as Azure and Google Cloud Services. My skills encompass data cleaning, modeling, and the creation of insightful dashboards tailored for data-driven decision-making. I have a robust foundation in statistics and machine learning, complemented by strong analytical and problem-solving capabilities.
 </p>
 
 ***
